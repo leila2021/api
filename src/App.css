@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+body {
+  font-family: tahoma;
+  height: 100vh;
+  background-image: url(https://picsum.photos/g/3000/2000);
+  background-size: cover;
+  background-position: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
